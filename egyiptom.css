@@ -1,0 +1,47 @@
+*{
+    background-image: url(/kepek/egyiptom/egyiptomihatter.jpg);
+    max-width: 40vw;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: darkred;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+h2{ text-align: center;
+    color: darkred;
+    border-top: 2px solid darkred;
+    border-bottom: 2px solid darkred;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+#nilus{
+    float: right;
+    padding: 0.5rem;
+    border: 2px dashed darkred;
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    
+}
+p{
+    text-align: justify;
+    color: darkred;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#karnak {
+    float: left;
+    padding: 0.5rem;
+    border: 2px dashed darkred;
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
