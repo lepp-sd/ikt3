@@ -1,22 +1,24 @@
-html.nilus{
-    background-image: url(/kepek/egyiptom/egyiptomihatter.jpg);
+html.nilus {
+    background-image: url(kepek/egyiptom/egyiptomihatter.jpg);
     max-width: 40vw;
     margin: 0 auto;
 }
-#nilusbody{
+
+#nilusbody {
     background-color: rgba(201, 175, 31, 0.644);
     padding: 2rem;
 }
 
 
-#nilush1{
+#nilush1 {
     text-align: center;
     color: darkred;
     padding-bottom: 2rem;
     padding-top: 2rem;
 }
 
-.nilush2{ text-align: center;
+.nilush2 {
+    text-align: center;
     color: darkred;
     border-top: 2px solid darkred;
     border-bottom: 2px solid darkred;
@@ -25,7 +27,7 @@ html.nilus{
 
 }
 
-#nilus{
+#nilus {
     float: right;
     padding: 0.5rem;
     border: 2px dashed darkred;
@@ -33,9 +35,10 @@ html.nilus{
     margin-left: 0.5rem;
     margin-right: 0.5rem;
     margin-bottom: 0.5rem;
-    
+
 }
-.nilusp{
+
+.nilusp {
     text-align: justify;
     color: darkred;
     padding-top: 2rem;
@@ -51,35 +54,38 @@ html.nilus{
     margin-right: 0.5rem;
     margin-bottom: 0.5rem;
 }
-html.auto{
+
+html.auto {
     background-color: darkblue;
     color: darkblue;
     width: 60vw;
     margin: auto;
 }
 
-#autobody{
+#autobody {
     background-color: rgb(215, 240, 248);
     max-width: 50vw;
     margin: auto;
     padding: 1rem 1rem 2rem 1rem;
 }
-#autoh1{
+
+#autoh1 {
     text-align: center;
 }
-.autoh2bal{
+
+.autoh2bal {
     text-align: left;
 }
 
-.autop{
+.autop {
     text-align: justify;
     padding-bottom: 2rem;
     border-bottom: 1px solid darkblue;
 }
 
-.autoh2jobb{
+.autoh2jobb {
     text-align: right;
-    
+
 }
 
 .imgb {
@@ -89,13 +95,14 @@ html.auto{
     margin-right: 0.8rem;
 }
 
-.imgj{
+.imgj {
     float: right;
     height: 180px;
     width: 240px;
     margin-left: 0.8rem;
 }
-.link{
+
+.link {
     border: 0px solid;
     background-color: rgb(100, 58, 177);
     text-decoration: none;
